@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### Hi there I'm Sai Kumar Sandra 👋
 <!--
 **saikumarsandra/saikumarsandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![SaiKumar_Sandra GitHub stats](https://github-readme-stats.vercel.app/api?username=saikumarsandra)](https://github.com/saikumarsandra/github-readme-stats)
 
 Here are some ideas to get you started:
 

@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/saikumarsandra] [https://saikumarsandra.github.io/Saikumar-Sandra.github.io]] 
 
-- 📫 How to reach me **saikumarsandra@gmail.com ,(+91)9533480309,(+44)7747689341**
+- 📫 How to reach me **saikumarsandra@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kMAoS1FWnZCBCSAIXNu-0NI3FQkONCPg/view?usp=sharing](https://drive.google.com/file/d/1kMAoS1FWnZCBCSAIXNu-0NI3FQkONCPg/view?usp=sharing)
 

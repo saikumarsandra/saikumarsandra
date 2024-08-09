@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Sandra</h1>
-<h3 align="center">A passionate developer from India worked as Full Stack Developer in java with 1 year experience</h3>
+<h3 align="center">A passionate developer from India worked as Full Stack Developer in java and a web developer (UK) with 2 years experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarsandra&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarsandra" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development and Data Science**
 
-- 🤝 I’m looking for help some one to mentor me **in Data Science Path-Way**
-
-- 👨‍💻 All of my projects are available at [[https://github.com/saikumarsandra] [https://saikumarsandra.github.io/Saikumar-Sandra.github.io]] 
+- 👨‍💻 All of my projects are available at [[https://github.com/saikumarsandra] 
 
 - 📫 How to reach me **saikumarsandra@gmail.com**
 

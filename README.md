@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Sandra</h1>
-<h3 align="center">A passionate developer from India worked as Full Stack Developer in java and a web developer (UK) with 2 years experience</h3>
+<h3 align="center">A passionate developer from India worked as Full Stack Developer in java and a web developer with Adobe analytics (UK) with 2+ years experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarsandra&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarsandra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarsandra" alt="saikumarsandra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saikumar_sandra" target="blank"><img src="https://img.shields.io/twitter/follow/saikumar_sandra?logo=twitter&style=for-the-badge" alt="saikumar_sandra" /></a> </p>
-
-- 🌱 I’m currently learning **Python,AI/ML,Tableau,Data visualisation, Data Modeling ,Data Cleaning,etc**
-
-- 👯 I’m looking to collaborate on **Full Stack Development and Data Science**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/saikumarsandra] 
 

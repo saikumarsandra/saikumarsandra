@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Sandra</h1>
-<h3 align="center">A passionate developer from India worked as Full Stack Developer in java and a web developer with Adobe analytics (UK) with 2+ years experience</h3>
+<h3 align="center">Digital Analytics Engineer specialising in Adobe Analytics, Adobe Target & CRO — 3 years' experience across banking, energy and retail (Cardiff, UK)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarsandra&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarsandra" /> </p>
 
@@ -7,16 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/saikumar_sandra" target="blank"><img src="https://img.shields.io/twitter/follow/saikumar_sandra?logo=twitter&style=for-the-badge" alt="saikumar_sandra" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/saikumarsandra] 
+- 🔭 Currently delivering Adobe Analytics, Adobe Target and CRO measurement for enterprise clients including British Gas, Sainsbury's Bank and FatFace
+
+- 🎓 Adobe Certified Expert (Adobe Analytics Developer, AD0-E209) · MSc Data Science (Distinction)
+
+- 👨‍💻 All of my projects are available at [github.com/saikumarsandra](https://github.com/saikumarsandra)
+
+- 📄 See my full experience on my [portfolio site](https://saikumarsandra.github.io/sai_kumar_sandra.github.io/) or [LinkedIn](https://www.linkedin.com/in/sai-kumar-sandra)
 
 - 📫 How to reach me **saikumarsandra@gmail.com**
-
-- 📄 Know about my experiences [)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saikumar_sandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saikumar_sandra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sai-kumar-sandra-538a79137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/sai-kumar-sandra-538a79137" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-kumar-sandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-kumar-sandra" height="30" width="40" /></a>
 <a href="https://fb.com/saikumar.sandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saikumar.sandra" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_kumar_sandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sai_kumar_sandra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@saikumarsandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@saikumarsandra" height="30" width="40" /></a>

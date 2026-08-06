@@ -17,6 +17,12 @@
 
 - 📫 How to reach me **saikumarsandra@gmail.com**
 
+### 🛍️ Featured project: The Considered Market
+
+A full ecommerce storefront — home, shop, product detail, cart and checkout — built from scratch in vanilla HTML/CSS/JS (no framework, no build step), as a personal training project to sharpen the Forms, Popups and Banners patterns used daily in Adobe Target/CRO work: validated forms throughout, an exit-intent discount popup, an admin-configurable announcement banner, and a full cookie-consent flow.
+
+**[View the project →](https://github.com/saikumarsandra/Analytics_web_development/tree/main/ecommerce-app)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saikumar_sandra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saikumar_sandra" height="30" width="40" /></a>
